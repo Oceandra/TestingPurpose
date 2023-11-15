@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Search Data Doketer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>289a2414-b57f-46eb-a3c7-78ecf297ea9c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ba00c87-b36b-4302-a987-836b91081499</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ba00c87-b36b-4302-a987-836b91081499</id>
+      <masked>false</masked>
+      <name>namaDokter</name>
+   </variable>
+</TestCaseEntity>
